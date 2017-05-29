@@ -3,7 +3,7 @@
 - Use Yo to scaffold a web development project
 - Understand the Yeoman workflow and the tools used in the workflow
 
-#installations
+# installations
 
 * installing Yo
 `````

@@ -17,4 +17,11 @@ npm install generator-angular -g
 ``````
 - For my project angular generator is required.
 
+Go to your project folder and type:
+
+``````
+yo angular
+``````
+- Then we can select the required dependencies.
+
 we have many generators available in Yeoman website http://yeoman.io  
